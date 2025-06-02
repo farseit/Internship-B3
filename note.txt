@@ -1,0 +1,7 @@
+1.top header alignment problem ✅
+2.images not getting proper width ✅
+3.buy now button not working 
+4.Shopping Cart images not showing ✅
+5.checkout page not functional ✅
+6.My WishList not working properly
+7.hamburgar not working
